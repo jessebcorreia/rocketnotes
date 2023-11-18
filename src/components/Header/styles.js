@@ -24,6 +24,7 @@ export const Profile = styled(Link)`
     width: 5.6rem;
     height: 5.6rem;
     border-radius: 50%;
+    object-fit: cover;
   }
 
   > div {

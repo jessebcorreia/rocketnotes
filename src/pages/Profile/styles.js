@@ -35,11 +35,11 @@ export const Avatar = styled.div`
   width: 18.6rem;
   height: 18.6rem;
 
-
   > img {
     border-radius: 50%;
     width: 18.6rem;
     height: 18.6rem;
+    object-fit: cover;
   }
 
   > label {

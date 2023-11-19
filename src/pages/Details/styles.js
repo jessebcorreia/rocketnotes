@@ -45,6 +45,7 @@ export const Content = styled.div`
   }
 
   > h1 {
+    text-align: justify;
     font-size: 3.6rem;
     font-weight: 500;
     padding-top: 6.4rem;

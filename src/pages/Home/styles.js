@@ -45,6 +45,7 @@ export const Menu = styled.ul`
   flex-direction: column;
   align-items: center;
   gap: 2.4rem;
+  overflow-y: auto;
 
   > li {
     list-style-type: none;
